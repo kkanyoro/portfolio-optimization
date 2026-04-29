@@ -1,0 +1,13 @@
+# Web App / UI
+streamlit
+
+# Core Data Science & Math
+numpy
+pandas
+scipy
+matplotlib
+
+# Quantum Ecosystem (Qiskit V2)
+qiskit
+qiskit-optimization
+qiskit-algorithms
