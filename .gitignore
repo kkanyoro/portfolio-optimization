@@ -1,0 +1,32 @@
+# Python environment and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+python/
+
+# Project-specific environment folder
+projectq/
+
+# Distribution / Build
+dist/
+build/
+*.egg-info/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Research & Documentation
+prep.md
+checklist.md
